@@ -1,0 +1,9 @@
+#header-background{
+    background-image: url("../img/headerBanner.png");
+    min-height: 64px;
+}
+
+#sflogo{
+    /* height: 37px; */
+    width: 300px;
+}
